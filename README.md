@@ -9,6 +9,6 @@
 ### Datasets
 
 - [Game of Thrones](https://www.kaggle.com/datasets/mylesoneill/game-of-thrones)
-- [Crise cardiaque](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+- [AVC](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 - [Notes d'élèves](https://www.kaggle.com/datasets/dipam7/student-grade-prediction)
 - [Divorce](https://www.kaggle.com/datasets/andrewmvd/divorce-prediction)
