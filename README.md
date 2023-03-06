@@ -8,7 +8,7 @@
 
 ### Datasets
 
-- [Performances d'employés](https://www.kaggle.com/datasets/gauravduttakiit/employee-performance-prediction)
+- [Performances d'employé·es](https://www.kaggle.com/datasets/gauravduttakiit/employee-performance-prediction)
 - [Prix de téléphones](https://www.kaggle.com/datasets/mohannapd/mobile-price-prediction)
 - [Game of Thrones](https://www.kaggle.com/datasets/mylesoneill/game-of-thrones)
 - [AVC](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
